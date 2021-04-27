@@ -1,0 +1,2 @@
+# run this line on command line to start
+psql -U postgres
